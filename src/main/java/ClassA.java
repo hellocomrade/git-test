@@ -1,0 +1,3 @@
+public ClassA {
+  public ClassA(){}
+}
